@@ -1,0 +1,22 @@
+{
+  "name": "inbox",
+  "version": "1.0.0",
+  "description": "An inbox dapp using Ethereum & Solidity",
+  "main": "compile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3atharvkurdukar/ethereum-solidity/tree/inbox"
+  },
+  "author": "Atharv Kurdukar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3atharvkurdukar/ethereum-solidity/issues"
+  },
+  "homepage": "https://github.com/3atharvkurdukar/ethereum-solidity/tree/inbox#readme",
+  "dependencies": {
+    "solc": "^0.4.17"
+  }
+}
